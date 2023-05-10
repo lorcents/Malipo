@@ -1,3 +1,12 @@
 [submodule "virtual"]
 	path = virtual
 	url = https://github.com/lorcents/vw
+[submodule "Jenga"]
+	path = Jenga
+	url = https://github.com/lorcents/jen
+[submodule "Mpesa"]
+	path = Mpesa
+	url = https://github.com/lorcents/mps
+[submodule "Malipo"]
+	path = Malipo
+	url = https://github.com/lorcents/vw-ui
